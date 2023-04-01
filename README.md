@@ -35,4 +35,4 @@ Issues and problems with the program:
 
 Link to version control:
 
-https://github.com/sg-21/cs4760_project4
+https://github.com/samedg98/project4
